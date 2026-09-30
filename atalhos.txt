@@ -1,0 +1,23 @@
+# navegar pelos arquivos:
+    ctrl+shift+e
+
+# Renomear arquivos:
+    fn+f2
+
+# escrever no terminal: 
+    ctrl+`
+
+# voltar para o editor principal:
+    ctrl+1
+
+# acessar pasta: 
+    cd nomePasta
+
+# criando novo arquivo  
+    -acessar pasta
+    ni nome.cpp
+
+# para dar git em tudo(acessar pasta geral):
+    ctrl+shift+`
+
+    
