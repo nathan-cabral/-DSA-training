@@ -20,4 +20,6 @@
 # para dar git em tudo(acessar pasta geral):
     ctrl+shift+`
 
+# para acessar os terminais 
+    ctrl+shift+\
     
